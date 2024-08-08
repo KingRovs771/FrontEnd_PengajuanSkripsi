@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -73,3 +74,7 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+=======
+# FrontEnd_PengajuanSkripsi
+Front End untuk Sistem Pengajuan Skripsi STMIK Sinar Nusantara 
+>>>>>>> bbe06810354e38cf7720bf1e2c558e40c8eb2465
